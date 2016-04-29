@@ -16,4 +16,7 @@ Reading flash... done.<br>
 </i>
 </P>
 
-<b>Note: Must connect to SPI2 of the TIAO USB board because the command use "port=B"<b>
+<b>Note: Must connect to SPI2 of the TIAO USB board because the command use "port=B"<br>
+\#WP and \#HOLD pins are not connected to to dump the SPI flash
+</b>
+
